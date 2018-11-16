@@ -12,6 +12,8 @@
   - Advanced
     - Hotkey
       - The hotkey window floats above other windows even another application is active: Yes
+  - Appealance
+    - Exclude from Dock and Application switcher: チェック
 - color theme
  - [https://draculatheme.com/iterm/](dracula)
 - font
